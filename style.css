@@ -79,9 +79,10 @@
 .main-bg{
     display: flex;
 }
-.img-bg > img{
+.image-bg > img{
     width: 100%;
     border-radius: 5rem;
+    margin-top: 3rem;
 }
 .text-bg > p{
     padding-top: 3rem;
