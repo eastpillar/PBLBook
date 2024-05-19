@@ -1,0 +1,87 @@
+        html, body{
+            height: 100%;
+            width: 100%;
+        }
+        *{
+            margin: 0;
+            font-family: "Jua", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+        }
+        .lib-read-book{
+            height: 60rem;
+            width: 100%;
+            color: black;
+        }
+        .lib-read-book-image{
+            width: 100%;
+            height: 100%;
+            background: url('PBL image/책읽는 그림.png') no-repeat center center;
+        }
+        .lib-read-book-text1{
+            padding-top:2rem;
+            padding-left: 8rem;
+        }
+        .lib-read-book-text2{
+            padding-top: 5rem;
+            padding-left: 10rem;
+        }
+        .lib-read-book-text3{
+            padding-top: 15rem;
+            padding-left: 8rem;
+        }
+        .box-open{
+            margin-top: 5rem;
+            height: 60rem;
+            width: 100%;
+            color: white;
+        }
+        .box-image{
+            width: 100%;
+            height: 100%;
+            background: url('PBL image/상자가 열리는 장면.png') no-repeat center center;
+
+        }
+        .box-open-text1{
+            padding-top: 20rem;
+            padding-left: 10rem;
+            font-size: 2rem;
+        }
+        .box-open-text2{
+            font-size: 2rem;
+            padding-top: 30rem;
+            padding-left: 15rem;
+        }
+        .lib-hoi{
+            height: 60rem;
+            color: white;
+            font-size: 1.2rem;
+            margin-top: 5rem;
+        }
+        .lib-hoi-image{
+            height: 100%;
+            width: 100%;
+
+            background: url('PBL image/소리를 듣고 다가가는 그림.png') no-repeat center center;
+        }
+        .lib-hoi-text1{
+            padding-top: 5rem;
+            padding-left: 8rem;
+        }
+        .lib-hoi-text2{
+            padding-top: 10rem;
+            padding-left: 10rem;
+        }
+        .lib-hoi-text3{
+            padding-top: 15rem;
+            padding-left: 25rem;
+        }
+        .many-book-box{
+            height: 60rem;
+            margin-top: 5rem;
+        }
+        .many-book-box-image{
+            height: 100%;
+            width: 100%;
+            background: url('PBL image/쌓여있는 책 틈 사이에 갈색 상자를 발견한 그림.png') no-repeat center center;
+        }
