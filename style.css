@@ -14,8 +14,13 @@
 .lib-read-book-text > p{
     padding-top: 3rem;
 }
+.rightbar{
+    width: 3rem;
+    padding-top: 20rem;
+}
+
 .book-noise-image > img{
-    width: 100%;
+    width: 90%;
     border-radius: 5rem;
 }
 .book-noise{
@@ -80,13 +85,18 @@
     display: flex;
 }
 .image-bg > img{
-    width: 100%;
+    padding-left: 3rem;
+    width: 90%;
     border-radius: 5rem;
     margin-top: 3rem;
 }
 .text-bg > p{
     padding-top: 3rem;
 }
-.plus-text > p{
+.plus-text{
+    display: flex;
+    width: 100%;
+}
+.plus-text2 > p{
     padding-top: 3rem;
 }
